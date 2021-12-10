@@ -2,10 +2,11 @@
 
 ## Cold sauces
 * [Guacamole](guacamole.md)
-* [Peppercorn](peppercorn.md)
-* [Mac and Cheese](maccheese.md)
+* [Chocolate cake](chocolate.md)
+* [Mac and cheese](maccheese.md)
 
 ## Hot sauces
 
+* [Peppercorn](peppercorn.md)
 
 ## Pasta dishes
